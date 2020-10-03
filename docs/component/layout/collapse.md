@@ -72,9 +72,9 @@ title: 折叠面板 Collapse
     </view>
     <text>1、本券一次使用1张限1件商品，自领取日起有效期7天。\n2、本优惠券不与其他优惠同享</text>
   </l-collapse-item>
-<l-collapse>
+</l-collapse>
 ```
-
+少一个"/"
 ## 折叠面板属性（Collapse Attributes）
 
 | 参数 | 说明               | 类型   | 可选值 | 默认值 | 版本号 |
